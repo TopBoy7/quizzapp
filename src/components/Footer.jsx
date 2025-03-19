@@ -23,7 +23,7 @@ export default function Footer() {
           <i className="ri-check-double-line ri-3x -ml-5 text-[#94D7A2] animate-pulse motion-reduce:animate-pulse"></i>
         </motion.a>
         <p className="font-inter font-normal text-base text-center leading-4">
-          Built with 💪🏻 by Abdul
+          Built with 💪🏻 by Joseph
         </p>
       </div>
     </footer>
